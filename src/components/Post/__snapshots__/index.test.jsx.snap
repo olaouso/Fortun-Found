@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders single Post component correctly 1`] = `
+<img
+  alt="loading..."
+  className="loadingGif"
+  src="loadingGif.gif"
+/>
+`;

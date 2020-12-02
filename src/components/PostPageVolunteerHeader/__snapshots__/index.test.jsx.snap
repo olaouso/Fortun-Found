@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PostPageVolunteerHeader component correctly 1`] = `
+<div
+  className="postHeader container-md"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6"
+    >
+      <img
+        alt="postPage.altVolunteerHeader"
+        className="headerPicture"
+        src="headerPic.jpg"
+      />
+    </div>
+    <div
+      className="postHeaderText col"
+    >
+      <p>
+        postPage.title
+      </p>
+    </div>
+  </div>
+</div>
+`;

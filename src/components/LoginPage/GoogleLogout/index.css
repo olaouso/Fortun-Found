@@ -1,0 +1,10 @@
+.googleIcon {
+  width: auto;
+}
+
+.googleLogOutBtn {
+  background-color: #dd4b39;
+  color: white;
+  display: flex;
+  align-items: center;
+}

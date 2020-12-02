@@ -1,0 +1,38 @@
+.projectDiscription {
+  margin: 2em;
+}
+
+.projectDescriptionRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.projectDescriptionHeader {
+  font-size: 1.75em;
+  color: #03c4a1;
+}
+
+.projectDescriptionHeaderAndParagraph {
+  width: 100%;
+  padding-right: 3em;
+  font-family: "Acme";
+  text-align: center;
+}
+
+.projectDescriptionParagraph {
+  padding-top: 1em;
+  /* margin-top: 0em; */
+  font-size: 1.25em;
+  color: #726a95;
+}
+
+.projectDescritionkImg {
+  width: 70%;
+  padding: 1%;
+  margin: 1%;
+  text-align: center;
+  /* margin: 1.25em;
+  margin-left: 0em;  */
+}

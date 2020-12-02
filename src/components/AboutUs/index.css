@@ -1,0 +1,22 @@
+.aboutUsComponent {
+  display: flex;
+  color: #590995;
+}
+.aboutCenter {
+  text-align: center;
+  margin: 1em 5em;
+  font-family: "Acme";
+}
+
+.aboutHeader {
+  color: #03c4a1;
+  margin: 1.5em 0;
+  font-size: 3em;
+}
+.aboutTeamImg {
+  width: 60%;
+  margin: 2em 0;
+}
+.teamImgDiv {
+  width: 100%;
+}

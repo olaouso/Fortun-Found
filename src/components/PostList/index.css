@@ -1,0 +1,138 @@
+.searchAndFilter {
+  border: 0.3em solid;
+  font-family: Acme;
+  color: #590995;
+  border-color: #590995;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  padding: 1%;
+}
+
+.volunteerFilterLabel {
+  margin: 0.4em;
+}
+
+.resultsCountLabel {
+  color: #03c4a1;
+}
+
+.postSearch {
+  border: 0.1em solid #590995;
+  border-radius: 1em;
+  width: 20%;
+  background-image: url("https://img.icons8.com/fluent-systems-filled/24/000000/search.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.postFilter {
+  border: 0.1em solid #590995;
+  border-radius: 1em;
+}
+
+.displaySettings {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  font-family: Acme;
+  color: #03c4a1;
+  margin: 1.5%;
+  margin-top: 2%;
+}
+
+.postSort {
+  border: 0.1em solid #03c4a1;
+  border-radius: 1em;
+  color: #03c4a1;
+}
+
+.postsDisplayed {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.postSearch:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.1em #03c4a1;
+}
+
+.postFilter:focus {
+  outline: none;
+}
+.searchAndFilter {
+  border: 0.3em solid;
+  font-family: Acme;
+  color: #590995;
+  border-color: #590995;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  padding: 1%;
+}
+
+.volunteerFilterLabel {
+  margin: 0.4em;
+}
+
+.resultsCountLabel {
+  color: #03c4a1;
+}
+
+.postSearch {
+  border: 0.1em solid #590995;
+  border-radius: 1em;
+  width: 20%;
+  background-image: url("https://img.icons8.com/fluent-systems-filled/24/000000/search.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.postFilter {
+  border: 0.1em solid #590995;
+  border-radius: 1em;
+}
+
+.displaySettings {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  font-family: Acme;
+  color: #03c4a1;
+  margin: 1.5%;
+  margin-top: 2%;
+}
+
+.postSort {
+  border: 0.1em solid #03c4a1;
+  border-radius: 1em;
+  color: #03c4a1;
+}
+
+.postsDisplayed {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.postSearch:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.1em #03c4a1;
+}
+
+.postFilter:focus {
+  outline: none;
+}
+.loadingGif {
+  width: 7em;
+  height: 6em;
+}

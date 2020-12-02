@@ -1,0 +1,18 @@
+.steps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3.5em;
+}
+.steps hr {
+  width: 50%;
+  color: black;
+}
+.stepOne {
+  color: #03c4a1;
+  text-align: center;
+  justify-content: right;
+}
+.stepIcon {
+  margin: 0 5em;
+}

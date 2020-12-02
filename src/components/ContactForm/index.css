@@ -1,0 +1,67 @@
+.contactPageImgsRow {
+  display: flex;
+  justify-content: center;
+}
+
+.contactPageImgs {
+  width: 50%;
+  margin: 2em;
+  border-radius: 0.5em;
+}
+
+.contactFormRow {
+  background-color: #03c4a1;
+}
+
+.contactFormStyle {
+  background-color: #f7f9fa;
+  margin: 3em;
+  padding-top: 1em;
+  border-radius: 0.5em;
+}
+
+.contactFormAllInputsAndMessageSpaceStyle {
+  border: solid 0.063em #d1dbe3;
+  border-radius: 0.5em;
+  padding: 1em;
+  margin: 1em;
+}
+
+.contactFormInputAndMessageAreaStyle {
+  border: none;
+  background-color: #f7f9fa;
+  width: 100%;
+}
+
+.contactFormMessageAreaStyle {
+  height: 7em;
+}
+
+.sendButton {
+  color: #f7f9fa;
+  width: 7em;
+  height: 3em;
+  margin-bottom: -10em;
+  margin-left: 1em;
+  background: #590995;
+  border-radius: 0.5em;
+  box-shadow: 0em 1em 2em #78737b;
+  transition: transform 50ms;
+  border: none;
+}
+.sendButton:hover {
+  transform: translateY(-0.5em);
+}
+.getInTouchTextColor {
+  color: #f7f9fa;
+  padding-left: 3em;
+}
+a.social {
+  margin: 0 1em;
+  transition: transform 50ms;
+  display: inline-block;
+  color: #590995;
+}
+a.social:hover {
+  transform: translateY(-0.5em);
+}

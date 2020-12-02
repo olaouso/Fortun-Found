@@ -1,0 +1,42 @@
+.receiveDonateToggleButton {
+  color: #f7f9fa;
+  width: 7em;
+  height: 3em;
+  margin-bottom: 2em;
+  background: #c62a88;
+  border-radius: 0.5em;
+  border: none;
+}
+
+.btn-primary:active,
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #03c4a1 !important;
+  border-color: #03c4a1 !important;
+}
+.btn-primary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-primary:hover {
+  background-color: #8b8b8b !important;
+  border-color: #8b8b8b !important;
+}
+
+.formContent {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+.formLogo {
+  width: 25%;
+  margin-bottom: 3em;
+}
+
+.description {
+  margin: 3em 0;
+  color: #590995;
+}

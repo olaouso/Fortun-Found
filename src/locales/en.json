@@ -1,0 +1,225 @@
+{
+  "successStories": {
+    "header": "Success Stories",
+    "paragraph": "We succeed to deliver the happiness to more than 1000 person, help us to increase the number and participate in changing the world"
+  },
+  "whoWeAre": {
+    "header": "Website Mission",
+    "paragraph": "Providing the linkage between the people who are willing to donate from their stuff and people who needs these stuff and make sure that we deliver the donation to the most vulnerable people.",
+    "howItWorks": "How It Works"
+  },
+  "contact": {
+    "aletMessage": "Your message was successfully submitted",
+    "formName": "Name",
+    "formNamePlaceholder": "Full Name",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "example@gmail.com",
+    "formMessagePlaceholder": "Please type your message to us",
+    "formButton": "Send",
+    "header": "Get in touch",
+    "phone": "0090 536 437 48 43",
+    "email": "Contactus@fortunefound.org",
+    "par1": "Get in touch with us and we will be happy to answer your inquiries"
+  },
+  "loginPages": {
+    "login": {
+      "logIn": "Log In",
+      "email": "Email",
+      "password": "Password",
+      "logInBtn": "Log In",
+      "forgotPass": "Forgot Password?",
+      "needAcc": "Need an account?",
+      "signUp": "Sign Up",
+      "logInGoogle": "Login with Google",
+      "logInFacebook": "Login with Facebook",
+      "alertFailLogin": "Failed to login.",
+      "alertLoginSuccess": "Logged in Succesfully"
+    },
+    "signup": {
+      "signUp": "Sign Up",
+      "name": "Name",
+      "surname": "Surname",
+      "biography": "Biography",
+      "job": "Job Title",
+      "location": "Location",
+      "email": "Email",
+      "password": "Password",
+      "passwordConfirm": "Password Confirmation",
+      "getStarted": "Get Started",
+      "haveAnAccount": "Already have an account?",
+      "logIn": "Log In",
+      "passNotMatch": "Passwords do not match",
+      "failCreateAcc": "Failed to create an account"
+    },
+    "forgotPassword": {
+      "passReset": "Password Reset",
+      "email": "Email",
+      "resetBtn": "Reset Password",
+      "login": "Login",
+      "needAccount": "Need an account",
+      "signup": "Sign Up",
+      "alertMessage": "Check your inbox!",
+      "alertError": "Failed to reset password"
+    },
+    "faceLogin": {
+      "welcome": "Welcome"
+    },
+    "logout": {
+      "alertSuccess": "Logged out Successfully",
+      "alertLogoutFail": "Logged out failed",
+      "signout": "Sign out",
+      "updateProfile": "Update Profile",
+      "logOut": "Log out"
+    },
+    "updateLoginInfo": {
+      "passNotMatch": "Passwords do not match",
+      "failUpdate": "Failed to update account",
+      "updateProfile": "Update Profile",
+      "email": "Email",
+      "password": "Password",
+      "passConfirm": "Password Confirmation",
+      "update": "Update",
+      "cancel": "Cancel"
+    }
+  },
+  "about": {
+    "about": "About Us",
+    "ourTeam": "Our Team",
+    "teamDiscription": "Behind this project is a benevolent team of five brothers and sisters led by an experienced leader, please don't hesitate to contact us for any help or feedback",
+    "aboutUs": [
+      {
+        "title": "Our Believes",
+        "paragraph": "Together we can build a better world, everyone can participate in changing the world by donating his/her unnecessary stuff to people in need, whatever the stuff is it might rescue the other people lives or better their lives at least."
+      },
+      {
+        "title": "Idea behind the website",
+        "paragraph": "Providing the linkage between the people who are willing to donate from their stuff and people who needs this stuff and make sure that we deliver the donation to the most vulnerable people."
+      },
+      {
+        "title": "About Us",
+        "paragraph": "Group of young people dream about a better world with no vulnerability and seek to integrate the efforts to provide the needed support to people in need. we always thrive to recieve new ideas to make us better."
+      }
+    ],
+    "team": [
+      {
+        "name": "Luey Ahmad",
+        "title": "Software engineer",
+        "gitHubLinks": "https://github.com/Luey-A"
+      },
+      {
+        "name": "Ola Ouso",
+        "title": "CEO",
+        "gitHubLinks": "https://github.com/olaouso"
+      },
+      {
+        "name": "Knar Göçer",
+        "title": "Software engineer",
+        "gitHubLinks": "https://github.com/knargocer"
+      },
+      {
+        "name": "Betül Erkoç",
+        "title": "Software engineer",
+        "gitHubLinks": "https://github.com/betulerkoc"
+      },
+      {
+        "name": "Orçun Sagırsoy",
+        "title": "Software engineer",
+        "gitHubLinks": "https://github.com/orcunsagirsoy"
+      },
+      {
+        "name": "Ammar Sammour",
+        "title": "Lead Software engineer",
+        "gitHubLinks": "https://github.com/Ammar-64"
+      }
+    ]
+  },
+  "postPage": {
+    "title": "Find your next volunteering opportunity",
+    "type": "Type",
+    "city": "City",
+    "date": "Date",
+    "by": "By",
+    "Author": "By",
+    "showing": "Showing",
+    "results": "results",
+    "goods": "Goods",
+    "money": "Money",
+    "service": "Service",
+    "sort": "Sort",
+    "sortTitle": "by Title",
+    "sortDate": "by Date",
+    "allLabel": "All",
+    "searchLabel": "Search",
+    "altVolunteerHeader": "Header Volunteer",
+    "altVolunteerPost": "for the post"
+  },
+  "postPageReciever": {
+    "title": "Find What You Need",
+    "altRecieverHeader": "Header Reciever"
+  },
+
+  "navbarsection": {
+    "Home": "Home",
+    "Posts": "Posts",
+    "Donate": "Add post",
+    "AboutUs": "About",
+    "ContactUs": "Contact",
+    "SearchHere": "Search here",
+    "Search": "Search",
+    "LogIn": "Login",
+    "SignUp": "Sign Up",
+    "logout": "Log out",
+    "LoggedInAs": "Logged in as",
+    "DonationPosts": "Donation Posts",
+    "ReceivingPosts": "Receiving Posts"
+  },
+
+  "projectDescription": {
+    "header": "Gifting your unnecessary stuff might rescue someone else's life",
+    "paragraph": "You can participate in changing the world by donating your unnecessary stuff to people in need, whatever your stuff is it might rescue the other people lives or better their lives at least, So don't throw out your un need stuff in the garbage, just give them to us and we will deliver them to whom in need"
+  },
+
+  "formsection": {
+    "Donate": "Donate",
+    "Receive": "Receive",
+    "FillTheFormDonator": "Fill the form to find a correct receiver",
+    "FillTheFormReceiver": "Fill the form to find a correct donator",
+    "DonationType": "Type (Select One)",
+    "DonationOption1": "Service",
+    "DonationOption2": "Goods",
+    "DonationOption3": "Money",
+    "PostTitle": "Post Title",
+    "PostDetailsForDonator": " Details (Please give some more details about why you want to donate)",
+    "PostDetailsForReceiver": " Details (Why are you applying for donation, What are you expectations from donators and any other comments you would like to share with us)",
+    "TargetGroup": "Target Group (Who you are targeting)",
+    "Prerequisites": "Prerequisites (Please tell us about your prerequisites about donator)",
+    "ProfileName": "Profile Name",
+    "AboutYou": "About You (Tell us about yourself, so we can find perfect receiver for you)  ",
+    "City": "City",
+    "ApplicationDate": "Last Date for Application",
+    "Submit": "Submit",
+    "SubmitAlert": "Your request was successfully submitted"
+  },
+  "singlePost": {
+    "TargetGroup": "Target Group",
+    "Prerequisites": "Prerequisites",
+    "Address": "Address",
+    "AboutPostOwner": "About Post Owner",
+    "ApplicationDeadline": "Last day for Application",
+    "PleaseLogInToApply": "Please log in to apply",
+    "PostType": "Post Type:",
+    "BackButton": "Go Back to Posts",
+    "Apply": "Apply",
+    "SimilarPosts": "Similar Posts"
+  },
+  "applicationPageStep1": {
+    "date": "Date: ",
+    "Step1": "Step 1",
+    "Step2": "Step 2",
+    "Next": "Next",
+    "Prerequisites": "Prerequisites",
+    "target": "Prerequisites",
+    "MeetPrerequisites": "I meet these prerequisites",
+    "MeetTarget": "I meet these prerequisites"
+  }
+}

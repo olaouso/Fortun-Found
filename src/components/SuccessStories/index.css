@@ -1,0 +1,26 @@
+.successStoriesContaier {
+  font-family: "Acme";
+  margin-bottom: 2em;
+}
+
+.successStoriesPosts {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+.sucessStories {
+  color: #c62a88;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  font-size: 2.5em;
+  font-family: "Acme";
+}
+
+.weSucceed {
+  color: #726a95;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-size: 1.25em;
+  font-family: "Acme";
+}

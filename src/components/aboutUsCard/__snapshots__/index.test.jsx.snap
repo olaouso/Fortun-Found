@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AboutUsCard correctly 1`] = `
+<div
+  className="col-md-4"
+>
+  <h4
+    className="cardTitle"
+  />
+  <p
+    className="cardParagraph"
+  />
+</div>
+`;

@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders WhoWeAre correctly 1`] = `
+<div
+  className="whoWeAre"
+  fluid="md"
+>
+  <div
+    className="targetText row"
+  >
+    <div
+      className="col-md-6"
+    >
+      <h2
+        className="targetHeader"
+      >
+        whoWeAre.header
+      </h2>
+      <p
+        className="targetParagraph"
+      >
+        whoWeAre.paragraph
+      </p>
+    </div>
+    <div
+      className="col-md-6"
+    >
+      <img
+        alt="Target"
+        className="whoWeAreImage"
+        src="target.jpg"
+      />
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <h1
+        className="whoWeAreTitle"
+      >
+        whoWeAre.howItWorks
+      </h1>
+    </div>
+  </div>
+  <div
+    className="innerVideo row"
+  >
+    <iframe
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen={true}
+      frameborder="0"
+      height="500em"
+      src="https://www.youtube.com/embed/9Fev-hRCR-8"
+      title="How It Works?"
+      width="800em"
+    />
+  </div>
+</div>
+`;

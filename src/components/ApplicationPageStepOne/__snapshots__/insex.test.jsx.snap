@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PostSectionStep1 correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="stepOneApplicationPage"
+  >
+    <div
+      md={4}
+    >
+      <h2
+        className="prerequisites"
+      >
+        applicationPageStep1.target
+      </h2>
+      <p
+        className="prerequisitesDescription"
+      />
+      <input
+        name="radiobutton"
+        type="checkbox"
+        value={true}
+      />
+      <label
+        className=" prerequisitesDescription meet"
+        htmlFor="radiobutton"
+      >
+        applicationPageStep1.MeetTarget
+      </label>
+    </div>
+    <div />
+  </div>
+</div>
+`;

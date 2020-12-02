@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PostPageRecieverHeader component correctly 1`] = `
+<div
+  className="postRecieveHeader container-md"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6"
+    >
+      <img
+        alt="postPageReciever.altRecieverHeader"
+        className="recieverHeaderImage"
+        src="recieverHeaderPic.jpg"
+      />
+    </div>
+    <div
+      className="postHeaderRecieverText col"
+    >
+      <p>
+        postPageReciever.title
+      </p>
+    </div>
+  </div>
+</div>
+`;

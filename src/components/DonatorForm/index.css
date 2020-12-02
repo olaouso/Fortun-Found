@@ -1,0 +1,15 @@
+.submitButton {
+  color: #f7f9fa;
+  width: 7em;
+  height: 3em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  background: #c62a88;
+  border-radius: 0.5em;
+  box-shadow: 0em 1em 2em #c62a88;
+  transition: transform 50ms;
+  border: none;
+}
+.submitButton:hover {
+  transform: translateY(-0.5em);
+}

@@ -1,0 +1,212 @@
+{
+  "successStories": {
+    "header": "Başarı Hikayeleri",
+    "paragraph": "Şimdiye kadar 1000 fazla kişiye mutluluk ulaştırmayı başardık. Bu sayının çoğalmasında bize yardım edin ve dünyanın değişimine katkıda bulunun"
+  },
+  "whoWeAre": {
+    "header": "Misyonumuz",
+    "paragraph": "Bağış yapmaya istekli kişiler ile bunlara ihtiyacı olan kişiler arasındaki bağlantıyı sağlamak ve bağışı en çok ihtiyacı olan kişilere ulaştırmak.",
+    "howItWorks": "Nasıl Çalışır?"
+  },
+  "contact": {
+    "aletMessage": "Mesajınınz başarıyla gönderildi",
+    "formName": "Adı ve Soyadı",
+    "formNamePlaceholder": "Adı ve Soyadı",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "örnek@gmail.com",
+    "formMessagePlaceholder": "Lütfen mesajınızı yazınız",
+    "formButton": "Gönder",
+    "header": "Bize Ulaşın",
+    "phone": "0090 536 437 48 43",
+    "email": "bizeulasın@fortunefound.org",
+    "par1": "Sorularınızın cevaplarını almak için lütfen bize ulaşın"
+  },
+  "loginPages": {
+    "login": {
+      "logIn": "Giriş Yap",
+      "email": "Email",
+      "password": "Şifre",
+      "logInBtn": "Giriş Yap",
+      "forgotPass": "Şifremi unuttum",
+      "needAcc": "Bir hesaba mı ihtiyacın var?",
+      "signUp": "Hesap Oluştur",
+      "logInGoogle": "Google ile giriş yap",
+      "logInFacebook": "Facebook ile giriş yap",
+      "alertFailLogin": "Giriş yapılamadı.",
+      "alertLoginSuccess": "Hesap başarıyla oluşturuldu"
+    },
+    "signup": {
+      "signUp": "Hesap Oluştur",
+      "name": "İsim",
+      "surname": "Soyisim",
+      "email": "Email",
+      "password": "Şifre",
+      "passwordConfirm": "Şifre Doğrulama",
+      "getStarted": "Başla",
+      "haveAnAccount": "Bir hesabım var",
+      "logIn": "Giriş Yap",
+      "passNotMatch": "Şifreler Eşleştirilemedi",
+      "failCreateAcc": "Hesap oluşturulamadı"
+    },
+    "forgotPassword": {
+      "passReset": "Şifre yenileme",
+      "email": "Email",
+      "resetBtn": "Şifre yenileme",
+      "login": "Giriş Yap",
+      "needAccount": "Bir hesaba mı ihtiyacın var?",
+      "signup": "Hesap Oluştur",
+      "alertMessage": "Gelen kutunu kontrol et!",
+      "alertError": "Şifre yenilenemedi"
+    },
+    "faceLogin": {
+      "welcome": "Hoşgeldiniz"
+    },
+    "logout": {
+      "alertSuccess": "Başaryıla Çıkış Yapıldı",
+      "alertLogoutFail": "Çıkış Yapılamadı",
+      "signout": "Çıkış yap",
+      "updateProfile": "Profilini yenile",
+      "logOut": "Çıkış yap"
+    },
+    "updateLoginInfo": {
+      "passNotMatch": "Şifreler Eşleştirilemedi",
+      "failUpdate": "Profil yenilenemedi",
+      "updateProfile": "Profilini yenile",
+      "email": "Email",
+      "password": "Şifre",
+      "passConfirm": "Şifre Doğrulama",
+      "update": "Güncelle",
+      "cancel": "İptal"
+    }
+  },
+  "about": {
+    "about": "Hakkımızda",
+    "ourTeam": "Ekibimiz",
+    "teamDiscription": "Bu projenin arkasında deneyimli bir lider tarafından yönetilen beş kişiden oluşan yardımsever bir ekip var, lütfen herhangi bir yardım veya geri bildirim için bizimle iletişime geçmekten çekinmeyin",
+    "aboutUs": [
+      {
+        "title": "İlkelerimiz",
+        "paragraph": "Birlikte daha iyi bir dünya yaratabiliriz. Herkes ihtiyacı olmayan eşyaları bağışlayarak dünyatı daha güzel bir yer haline getirmeye katkıda bulunabilir. Bağışınız her ne olursa olsun bir başkasının hayatına katkıda bulunabilirsiniz"
+      },
+      {
+        "title": "Sitenin Anafikri",
+        "paragraph": "Bağış yapmaya istekli kişiler ile bunlara ihtiyacı olan kişiler arasındaki bağlantıyı sağlamak ve bağışı en çok ihtiyacı olan kişilere ulaştırmak."
+      },
+      {
+        "title": "Hakkımızda",
+        "paragraph": "Bir grup genç insan, eşitsizliğim olmadığı daha iyi bir dünyanın hayalini kuruyor ve ihtiyacı olan insanlara ihtiyaç duyulan desteği sağlama çabalarını entegre etmeye çalışıyor. Kendimizi geliştirmek için her zaman yeni fikirler edinmeye çalışıyoruz."
+      }
+    ],
+    "team": [
+      {
+        "name": "Luey Ahmad",
+        "title": "Yazılım Mühendisi",
+        "gitHubLinks": "https://github.com/Luey-A"
+      },
+      {
+        "name": "Ola Ouso",
+        "title": "Yazılım Mühendisi",
+        "gitHubLinks": "https://github.com/olaouso"
+      },
+      {
+        "name": "Knar Göçer",
+        "title": "Yazılım Mühendisi",
+        "gitHubLinks": "https://github.com/knargocer"
+      },
+      {
+        "name": "Betül Erkoç",
+        "title": "Yazılım Muhendisi",
+        "gitHubLinks": "https://github.com/betulerkoc"
+      },
+      {
+        "name": "Orçun Sagırsoy",
+        "title": "Yazılım Mühendisi",
+        "gitHubLinks": "https://github.com/orcunsagirsoy"
+      },
+      {
+        "name": "Ammar Sammour",
+        "title": "Lider Yazılım Mühendisi",
+        "gitHubLinks": "https://github.com/Ammar-64"
+      }
+    ]
+  },
+  "postPage": {
+    "title": "Bir Sonraki Gönüllü Olma Şansınızı Bulun",
+    "type": "Çeşit",
+    "city": "Şehir",
+    "date": "Tarih",
+    "by": "Şununla filtrele",
+    "Author": "Gönderi sahibi",
+    "showing": "Gösterilen",
+    "results": "sonuç",
+    "goods": "Eşya",
+    "money": "Para",
+    "service": "Hizmet",
+    "sort": "Sırala",
+    "sortTitle": "Başlığa Göre",
+    "sortDate": "Tarihe Göre",
+    "allLabel": "Hepsi",
+    "searchLabel": "Arama",
+    "altVolunteerHeader": "Bağış Başlık",
+    "altVolunteerPost": "gönderi için"
+  },
+  "postPageReciever": {
+    "title": "İhtiyacını bul",
+    "altRecieverHeader": "İhtiyaç sahibi başlık"
+  },
+
+  "navbarsection": {
+    "Home": "Ana Sayfa",
+    "Posts": "Gönderiler",
+    "Donate": "Gönderi yap",
+    "AboutUs": "Hakkımızda",
+    "ContactUs": "Bize Ulaşın",
+    "SearchHere": "Arama",
+    "Search": "Arama",
+    "LogIn": "Giriş yap",
+    "SignUp": "Yeni hesab",
+    "logout": "Çıkış Yap",
+    "LoggedInAs": "Girişi yapan",
+    "DonationPosts": "Bağışlar",
+    "ReceivingPosts": "İhtiyaçlar"
+  },
+
+  "projectDescription": {
+    "header": "İhtiyacınız olmayan şeyleri hediye ederek bir başkasının hayatını kurtarabilirsiniz",
+    "paragraph": "Bağış yapmaya istekli kişiler ile bunlara ihtiyacı olan kişiler arasındaki bağlantıyı sağlamak ve bağışı en çok ihtiyacı olan kişilere ulaştırmak."
+  },
+
+  "formsection": {
+    "Donate": "Bağış",
+    "Receive": "İhtiyaç",
+    "FillTheFormDonator": "Doğru alıcıyı bulmak için formu doldurun",
+    "FillTheFormReceiver": "Doğru bağışçı bulmak için formu doldurun",
+    "DonationType": "Bağış Çeşidi",
+    "DonationOption1": "Hizmet",
+    "DonationOption2": "Eğitim",
+    "DonationOption3": "Para",
+    "PostTitle": "Başlık",
+    "PostDetailsForDonator": " Detaylar (Lütfen neden bağış yapmak istediğinizi açıklayınız)",
+    "PostDetailsForReceiver": " Detaylar (Neden bağış için başvuru yapıyorsunuz ? Bağışçılardan beklentileriniz nelerdir? Eklemek istediğiniz başka bir şey var mı?)",
+    "TargetGroup": "Hedef Grup",
+    "Prerequisites": "Önkoşullar (Lütfen bağışçılardan istediğiniz önkoşulları yazınız)",
+    "ProfileName": "Kullanıcı adı",
+    "AboutYou": " Hakkınızda (Size en çok uyan bağışçıyı bulabilmemiz için bize kendinizden bahsedin max 300 kelime)  ",
+    "City": "Şehir",
+    "ApplicationDate": "Son Başvuru Tarihi",
+    "Submit": "Gönder"
+  },
+
+  "singlePost": {
+    "TargetGroup": "Hedef Grup",
+    "Prerequisites": "Önkoşullar",
+    "Address": "Adres",
+    "AboutPostOwner": "gönderiyiOluşturanHakkında",
+    "ApplicationDeadline": "Son Başvuru Tarihi",
+    "PleaseLogInToApply": "Başvurmak için lüfen giriş yapınız",
+    "PostType": "Gönderi Çeşidi:",
+    "BackButton": "Tüm Gönderiler",
+    "Apply": "Başvur",
+    "SimilarPosts": "Benzer Gönderiler"
+  }
+}

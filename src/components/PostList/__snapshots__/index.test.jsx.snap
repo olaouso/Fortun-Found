@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders  PostList component correctly 1`] = `
+<iframe
+  height="20"
+  src="https://giphy.com/embed/xTk9ZvMnbIiIew7IpW"
+  title="load"
+  width="20"
+/>
+`;

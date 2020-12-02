@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders SuccessStories correctly 1`] = `
+<div
+  className="successStoriesContaier container"
+>
+  <p
+    className="text-center sucessStories"
+  >
+    successStories.header
+  </p>
+  <p
+    className="text-center weSucceed"
+  >
+    successStories.paragraph
+  </p>
+  <div
+    className="successStoriesPosts row"
+    fluid="md"
+  />
+</div>
+`;

@@ -1,0 +1,36 @@
+.cardBody {
+  color: #026fc2;
+  font-size: 1em;
+}
+.postName,
+.postDate {
+  color: #868686;
+  margin: 0.1;
+}
+.singlePost {
+  font-family: "Acme";
+  margin: 0.5em;
+  padding: 0.2em;
+  border: 0.1em solid #eef2f4;
+  border-radius: 0.5em;
+  background-color: #eef2f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardImg {
+  width: 15em;
+  height: 15em;
+}
+
+.cardTitle {
+  color: #590995;
+  font-size: 1.2em;
+  margin: 0.4em;
+}
+
+.singlePost:hover {
+  top: -0.2em;
+}

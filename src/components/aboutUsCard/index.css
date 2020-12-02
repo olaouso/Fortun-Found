@@ -1,0 +1,10 @@
+.cardTitle {
+  color: #590995;
+  margin: 1.8em 0;
+  font-size: 1.75em;
+}
+.cardParagraph {
+  text-align: justify;
+  color: #726a95;
+  font-size: 1.25em;
+}

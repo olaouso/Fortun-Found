@@ -1,0 +1,24 @@
+.logOutBtn {
+  font-family: "Acme" !important;
+  color: #590995 !important;
+  height: 2em;
+  width: 5em;
+  left: 5em;
+  top: 5em;
+  border-radius: 4em !important;
+  margin-right: 0.25%;
+  margin-left: 0.5%;
+  background-color: #590995 !important;
+  color: #f8f8f8 !important;
+  text-align: center !important;
+  padding: 0 !important;
+}
+
+.purpleElemLogout {
+  color: #590995;
+  border-color: #590995;
+}
+
+.greenElemLogout {
+  color: #03c4a1;
+}

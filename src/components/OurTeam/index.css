@@ -1,0 +1,28 @@
+.teamSection {
+  color: #03c4a1;
+  text-align: center;
+  margin: 0.5em 0;
+  font-family: "Acme";
+
+  font-size: 3em;
+}
+.teamParagraph {
+  color: #726a95;
+  margin: 2em 0;
+  font-size: 1.25em;
+}
+.teamMembers {
+  display: flex;
+  margin-bottom: 6em;
+}
+.aboutTeamImg {
+  width: 40%;
+  margin: 2em 0;
+}
+.ourTeamSectionOne {
+  text-align: center;
+  margin: 1.5em 0;
+}
+.teamParagraph {
+  color: #726a95;
+}

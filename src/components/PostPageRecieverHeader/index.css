@@ -1,0 +1,19 @@
+.recieverHeaderImage {
+  width: 100%;
+  height: auto;
+}
+
+.postHeaderRecieverText p {
+  display: flex;
+  align-items: center;
+  font-family: "Acme";
+  color: #590995;
+  font-size: 3em;
+  text-align: center;
+  padding: 5%;
+}
+
+.postRecieveHeader {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}

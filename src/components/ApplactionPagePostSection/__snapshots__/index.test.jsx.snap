@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PostSection correctly 1`] = `
+<div
+  className="postApplicationPage container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6"
+    >
+      <img
+        alt="post"
+        className="postImageApplicationPage"
+      />
+    </div>
+    <div
+      className="postTitleDescription col-md-6"
+    >
+      <div>
+        <h2
+          className="postTitle"
+        />
+        <p
+          className="postDescription"
+        />
+        <p
+          className="postDescription"
+        >
+          applicationPageStep1.date
+           
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

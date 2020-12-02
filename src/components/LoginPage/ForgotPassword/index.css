@@ -1,0 +1,32 @@
+.ressPassBtn {
+  background-color: #c62a88;
+  border: none;
+}
+
+.purpleElemForgotPass {
+  color: #590995;
+  border-color: #590995;
+}
+
+.greenElemForgotPass {
+  color: #03c4a1;
+}
+
+.friendsBoxImg {
+  margin-top: 1em;
+}
+
+.neumorphism {
+  border-radius: 4em;
+  background: #ffffff;
+  box-shadow: 0.25em 0.25em 1em #808080, -0.25em -0.25em 2em #ffffff;
+  border: none;
+}
+
+.forgotContainer {
+  width: 50em;
+}
+
+.inputSize {
+  width: 30em;
+}
